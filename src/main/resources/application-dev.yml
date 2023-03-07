@@ -1,0 +1,10 @@
+server:
+  port: 8000
+sms:
+  url: https://api.sms-activate.org/stubs/handler_api.php
+  apikey: 77916d204A44fc5e89A8f5d9742ff70b
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/register
+    username: root
+    password: 123456

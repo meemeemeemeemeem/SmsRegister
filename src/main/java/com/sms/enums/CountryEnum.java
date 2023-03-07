@@ -3,6 +3,8 @@ package com.sms.enums;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
+import javax.persistence.Entity;
+
 /**
  * @Author mei
  * @create 2023/2/7 11,56
